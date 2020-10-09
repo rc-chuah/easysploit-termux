@@ -30,7 +30,7 @@ echo -e '\e[1;33m
 
                                                              \e[1;32m
 
-  To execute EasySploit type anywhere in your Termux "easysploit".  \e[0m 
+  To execute EasySploit type anywhere in your termux "easysploit".  \e[0m 
 '
 
 
