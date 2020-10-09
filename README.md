@@ -1,5 +1,5 @@
-# EasySploit
-EasySploit v4.2 (Linux) - Metasploit automation (EASIER and FASTER than EVER) 
+# EasySploit Modified By rc-chuah
+EasySploit v4.2 (Yermux) - Metasploit automation (EASIER and FASTER than EVER) 
 
 # Disclaimer:
 
@@ -34,7 +34,7 @@ EasySploit v4.2 (Linux) - Metasploit automation (EASIER and FASTER than EVER)
 (10) Contact with us - Our accounts
 
 
-# How to install (The terminal must be launched as root user):
+# How to install:
 
 git clone https://github.com/KALILINUXTRICKSYT/easysploit.git
  
@@ -54,6 +54,9 @@ https://www.youtube.com/watch?v=9J479dModb8
 
 https://www.youtube.com/watch?v=UOUry9ov9rM
 
+# Credits:
+
+Thanks To KALILINUXTRICKSYT
 
 # Support us: 
 
