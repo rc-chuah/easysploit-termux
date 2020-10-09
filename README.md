@@ -1,5 +1,5 @@
 # EasySploit Modified By rc-chuah
-EasySploit v4.2 (Yermux) - Metasploit automation (EASIER and FASTER than EVER) 
+EasySploit v4.2 (Termux) - Metasploit automation (EASIER and FASTER than EVER) 
 
 # Disclaimer:
 
@@ -44,7 +44,7 @@ bash installer.sh
 
 # How to run (after installation):
 
-Type anywhere in your terminal "easysploit".
+Type anywhere in your termux "easysploit".
 
 # Video tutorials:
 
@@ -54,7 +54,7 @@ https://www.youtube.com/watch?v=9J479dModb8
 
 https://www.youtube.com/watch?v=UOUry9ov9rM
 
-# Credits:
+# Credits To The Original Creator:
 
 Thanks To KALILINUXTRICKSYT
 
