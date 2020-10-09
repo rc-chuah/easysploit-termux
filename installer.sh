@@ -13,7 +13,7 @@ echo -e '\e[1;33m
     / ____/___ ________  __/ ___/____  / /___  (_) /_
    / __/ / __ `/ ___/ / / /\__ \/ __ \/ / __ \/ / __/
   / /___/ /_/ (__  ) /_/ /___/ / /_/ / / /_/ / / /_   v4.2
- /_____/\__,_/____/\__, //____/ .___/_/\____/_/\__/  (Linux)
+ /_____/\__,_/____/\__, //____/ .___/_/\____/_/\__/  (Termux)
                   /____/     /_/                        \e[1;34m
                                 
                                 Created by "KALI LINUX TRICKS"
@@ -30,7 +30,7 @@ echo -e '\e[1;33m
 
                                                              \e[1;32m
 
-  To execute EasySploit type anywhere in your terminal "easysploit".  \e[0m 
+  To execute EasySploit type anywhere in your Termux "easysploit".  \e[0m 
 '
 
 
