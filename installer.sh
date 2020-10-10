@@ -6,7 +6,7 @@ echo "rm -rf ${PREFIX}/bin/easysploit && echo -e '\e[1;31m
 
 \e[0m' && rm uninstaller.sh " > uninstaller.sh 
 
-
+chmod +x uninstaller.sh
 
 echo -e '\e[1;33m
      ______                 _____       __      _ __ 
