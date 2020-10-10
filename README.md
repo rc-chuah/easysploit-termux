@@ -40,7 +40,9 @@ git clone https://github.com/rc-chuah/easysploit-termux.git
  
 cd easysploit
 
-bash installer.sh
+chmod +x installer.sh
+
+./installer.sh
 
 # How to run (after installation):
 
