@@ -38,7 +38,7 @@ EasySploit v4.2 (Termux) - Metasploit automation (EASIER and FASTER than EVER)
 
 git clone https://github.com/rc-chuah/easysploit-termux.git
  
-cd easysploit
+cd easysploit-termux
 
 chmod +x installer.sh
 
